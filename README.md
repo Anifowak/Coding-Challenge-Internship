@@ -1,9 +1,12 @@
 # Coding-Challenge-Internship
+
 ---
+
 **Task**
 You are going to develop a simple implementation of the MinHash algorithm, which will let you quickly calculate genetic distances between these samples.
 
 ---
+
 **Reading k-mers**
 First, you need to split the genomes into smaller parts which can be compared. A very common way to do this is using k-mers, which are substrings of length k.
 
